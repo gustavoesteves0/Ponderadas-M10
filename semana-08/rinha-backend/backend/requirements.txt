@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg 
+pydantic
+python-dotenv  
+ormar
+databases[postgresql]
+gunicorn
+psycopg2-binary
